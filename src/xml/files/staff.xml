@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<company>
+    <staff id="1001">
+        <firstname>human</firstname>
+        <lastname>leung</lastname>
+        <nickname>hl</nickname>
+        <salary currency="USD">10000</salary>
+    </staff>
+    <staff id="2001">
+        <firstname>Jason</firstname>
+        <lastname>Kim</lastname>
+        <nickname>Jason Kim</nickname>
+        <salary currency="HKD">20000</salary>
+    </staff>
+</company>
